@@ -1,0 +1,15 @@
+{
+  "Common": {
+    "save": "Save",
+    "retry": "Retry",
+    "error": "Error",
+    "invalid_input": "Invalid input",
+    "required": "This field is required"
+  },
+  "Form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "occupation": "Occupation"
+  }
+}
